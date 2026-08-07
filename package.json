@@ -18,7 +18,7 @@
   "dependencies": {
     "suncalc": "^1.8.0",
     "degrees-to-direction": "^1.1.1",
-    "electron": "^2.0.16",
+    "electron": "^43.3.0",
     "express": "^4.16.4",
     "geo-tz": "^4.0.2",
     "npm": "^6.7.0",
@@ -26,7 +26,7 @@
     "trend": "^0.3.0",
     "winston": "^3.1.0",
     "winston-daily-rotate-file": "^3.9.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {},
   "author": ""
